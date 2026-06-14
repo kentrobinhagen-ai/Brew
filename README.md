@@ -39,7 +39,7 @@ Brew Control guides you through the full fermentation process with automatic tri
 1. Diacetyl Rest
 When your SG gets within 4 gravity points of your target FG, Brew Control detects this and raises an alert. If you have a RAPT Temperature Controller connected, the temperature is raised to 3°C automatically to allow the yeast to clean up any diacetyl before fermentation finishes.
 2. Dry Hopping (optional)
-If you choose dry hopping when setting up your batch, Brew Control will alert you when velocity drops below 0.1 (fermentation essentially complete). A banner prompts you to add dry hops. After you confirm:
+If you choose dry hopping when setting up your batch, Brew Control will alert you when velocity drops below 0.1, and stays below for more then 12hours. (fermentation essentially complete). A banner prompts you to add dry hops. After you confirm:
 
 Measurements are paused for 30 minutes to avoid false readings from opening the fermenter
 A 72-hour countdown timer starts
